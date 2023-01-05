@@ -1,0 +1,15 @@
+h1 {
+  background-color: dodgerblue;
+  color: whitesmoke;
+  text-align: center;
+  font-size: 60px;
+}
+
+img {
+  max-width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 24px;
+}
